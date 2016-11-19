@@ -1,6 +1,6 @@
 <?php
-namespace core\loader;
-use core\base\BaseLoder;
+namespace core\base\loader;
+use core\base\common\BaseLoder;
 
 /**
  * Created by snow

@@ -1,6 +1,6 @@
 <?php
 namespace core;
-use core\base\BaseApp;
+use core\base\common\BaseApp;
 
 /**
  * Created by snow
